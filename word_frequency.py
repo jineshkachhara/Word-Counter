@@ -1,5 +1,5 @@
 """
-Week 2
+word_frequency
 The script defines a function run(). The function accepts as input the path to a text file and 2 words. It then returns the number of times that each 
 word appears in the file.
 """
